@@ -14,3 +14,9 @@ Implementing React features and my own philosophy using only JavaScript.
 🎯`25/03/20`
 
 패키지로 넘어가기전에 callback이 스냅샷 기능이 없음 => 구현 할것인지 아니면 말것인지 결정
+
+<br/>
+
+🎯`25/03/21`
+
+초기값 저장 기능은 일단, 내부 구현 로직을 많이 타야하고, 목적에 벗어나기때문에, 임시로 기능만 적용 => 이후 패키지 구상
