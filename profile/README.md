@@ -20,3 +20,9 @@ Implementing React features and my own philosophy using only JavaScript.
 🎯`25/03/21`
 
 초기값 저장 기능은 일단, 내부 구현 로직을 많이 타야하고, 목적에 벗어나기때문에, 임시로 기능만 적용 => 이후 패키지 구상
+
+<br/>
+
+🎯`25/03/23`
+
+hook 구현은 우선 여기까지 멈추고, package그리고, fiber쪽 으로 넘어가는게 좋을 거 같음
