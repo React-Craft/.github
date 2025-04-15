@@ -26,3 +26,9 @@ Implementing React features and my own philosophy using only JavaScript.
 🎯`25/03/23`
 
 hook 구현은 우선 여기까지 멈추고, package그리고, fiber쪽 으로 넘어가는게 좋을 거 같음
+
+<br/>
+
+🎯`25/04/16`
+
+element는 이정도면 될듯함, 일단 이후부터는 reconciler 부분 구현
