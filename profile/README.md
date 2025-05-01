@@ -1,40 +1,25 @@
-## Let's craft React.
+## React Craft
 
 Implementing React features and my own philosophy using only JavaScript.
 
 
-## 기록
-🎯`25/03/10`
+## Language
 
-지금 문제점은, hook을 구현으로 하고 있다는 것임 => 사실 react 패키지를 보면, 그렇게 구현되어져 있지 않기 때문에 실제 코드를 까보며 해야할 필요 있음
-=> 우선 훅은 meme, callback까지 적용(구현)하고 패키지로 넘어가야함
+- js
 
-<br/>
+## Contents 
 
-🎯`25/03/20`
+`Hooks`
+- [useState](https://www.dev-chan.site/post/67bb223cb1d5f54aece22ac8)
+- [useEffect/useRef](https://www.dev-chan.site/post/67c34434c60dbbdb3718c041)
+- [useCallback](https://www.dev-chan.site/post/67e0d65a5a46a9bf59040d2f)
 
-패키지로 넘어가기전에 callback이 스냅샷 기능이 없음 => 구현 할것인지 아니면 말것인지 결정
+`Elements`
+- [create elements](https://www.dev-chan.site/post/67fe83eeb363fc112efd8573)
 
-<br/>
+`Packages`
+- [reconciler](https://www.dev-chan.site/post/680d18312524669e0940a80b)
+- [scheduler](https://www.dev-chan.site/post/6811de41bec75926cc01ffe8)
 
-🎯`25/03/21`
-
-초기값 저장 기능은 일단, 내부 구현 로직을 많이 타야하고, 목적에 벗어나기때문에, 임시로 기능만 적용 => 이후 패키지 구상
-
-<br/>
-
-🎯`25/03/23`
-
-hook 구현은 우선 여기까지 멈추고, package그리고, fiber쪽 으로 넘어가는게 좋을 거 같음
-
-<br/>
-
-🎯`25/04/16`
-
-element는 이정도면 될듯함, 일단 이후부터는 reconciler 부분 구현
-
-<br/>
-
-🎯`25/04/22`
-
-reconciler 부분 기본 틀 적용, 다는 아니라도 일단 계속 코드 보면서 추가
+## Process Visualization
+![image](https://github.com/user-attachments/assets/53aac636-ca8d-4e10-b48e-045f96241650)
